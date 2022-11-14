@@ -34,17 +34,9 @@ bool isPrime(int n){
     return true;
 }
 
-int biggestIntInArr(int length, int arr[]){
-    int biggest = arr[0];
-    for(int i = 1; i < length; i++){
-        if (biggest < arr[i]) biggest = arr[i];
-    }
-    return biggest;
-}
-
-void fillArrayWithIsPrime(int length, bool arr[]){
+void fillArrayWithIsPrime(int length, int arr[], bool primes[]){
     for(int i = 0; i <= length; i++){
-        arr[i] = isPrime(i);
+        primes[arr[i]] = isPrime(arr[i]);
     }
 }
 
@@ -84,7 +76,7 @@ int main (){
 
     inputArray(length, arr);
 
-    fillArrayWithIsPrime(biggestIntInArr(length, arr), primes);
+    fillArrayWithIsPrime(length, arr, primes);
         
     cout << countProblems(length, arr, primes) <<endl;
 }

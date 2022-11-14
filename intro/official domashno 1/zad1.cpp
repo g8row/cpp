@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int abs(int n){
+int abso(int n){
     return (n>0) ? n : -n;
 }
 
@@ -18,7 +18,7 @@ bool contains (int number, int digit){
 }
 
 bool isSubset(int a, int b){
-    int absA = abs(a);
+    int absA = abso (a);
     while(absA>0){
         if(!contains(b, absA%10)){
             return false;
