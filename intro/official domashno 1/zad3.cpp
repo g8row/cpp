@@ -1,6 +1,21 @@
 #include <iostream>
-#include <cmath>
+//#include <cmath>
 using namespace std;
+
+double sqrt(double num) {
+
+    double x1 = num / 2;
+    double epsilon = 1e-12;
+
+    while (x1 - (num / x1) > epsilon) {
+
+        x1 = (x1 + (num / x1)) / 2;
+
+    }
+
+    return x1;
+
+}
 
 int validSize(){
     int result;

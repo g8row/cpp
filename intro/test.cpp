@@ -3,9 +3,11 @@
 using namespace std;
 
 int main() {
-    int x=10, y=10;
+    int x=10;
 
-    y=x=x++;
+    int *arr = new int[x];
 
-    cout << x << " " << y << endl;
+    cout << arr[0];
+
+
 }
