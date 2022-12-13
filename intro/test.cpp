@@ -1,13 +1,13 @@
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
 int main() {
-    int x=10;
 
-    int *arr = new int[x];
+    char arr[100] = "1000";
+    char ar2[100];
 
-    cout << arr[0];
-
-
+    strcpy(ar2, arr);
+    cout << ar2;
 }
