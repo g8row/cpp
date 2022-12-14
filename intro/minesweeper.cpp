@@ -1,6 +1,6 @@
 #include <iostream>
-#include <ctime>
 #include <cstring>
+#include <unistd.h> // Needs to be removed for Windows
 
 using namespace std;
 
@@ -10,6 +10,8 @@ const int MAX_SIZE = 10;
 
 int SIZE;
 int NUMBER_OF_MINES;
+
+bool isFirstTurn = 1;
 
 int state[MAX_SIZE][MAX_SIZE]; //-2 = is Marked; -1 = isnt Uncovered; 0 = Uncovered;
 int isMine[MAX_SIZE][MAX_SIZE];//-1 is Mine, >=0 = number of mines nearby
@@ -55,8 +57,7 @@ void unmark(int x, int y){
 void open(int x, int y){
     if(state[x][y] == -1){
         if(isMine[x][y] == -1){
-            LOST = 1;
-            cout << "You Lost!\n";
+            LOST=1;
             return;
         }
         state[x][y] = 0;
@@ -81,7 +82,7 @@ int numberOfSquare(int x, int y){
     return number;
 }
 
-void fillMines() {
+void fillMines(int x, int y) {
     for (int i = 0;i < SIZE;i++) {
         for (int j = 0;j < SIZE;j++) {
             isMine[i][j] = 0;
@@ -96,6 +97,16 @@ void fillMines() {
             randomy = rand() % (SIZE);
         }
         isMine[randomx][randomy] = -1;
+        while(numberOfSquare(x,y)!=0){
+            isMine[randomx][randomy]=0;
+            randomx = rand() % (SIZE);
+            randomy = rand() % (SIZE);
+            while (isMine[randomx][randomy] == -1) {
+                randomx = rand() % (SIZE);
+                randomy = rand() % (SIZE);
+            }
+            isMine[randomx][randomy] = -1;
+        }
     }
     for (int i = 0;i < SIZE;i++) {
         for (int j = 0;j < SIZE;j++) {
@@ -120,8 +131,10 @@ void validSizeAndMines() {
     cout << "Please enter size: ";
     cin >> temp;
 
-    while (temp<3 && temp>10) {
-        cout << "Invalid input. Please enter size again.\n";
+    while (temp<3 || temp>10) {
+        cin.clear();
+        cin.ignore();
+        cout << "Invalid input. Please enter size again: ";
         cin >> temp;
     }
     SIZE = temp;
@@ -129,14 +142,16 @@ void validSizeAndMines() {
     cout << "Please enter number of mines: ";
     cin >> temp;
 
-    while (temp<1 && temp>(3 * SIZE)) {
-        cout << "Invalid input. Please enter number of mines again.\n";
+    while (temp<1 || temp>(3 * SIZE)) {
+        cin.clear();
+        cin.ignore();
+        cout << "Invalid input. Please enter number of mines again: ";
         cin >> temp;
     }
     NUMBER_OF_MINES = temp;
 }
 
-void printArray(int arr[MAX_SIZE][MAX_SIZE]) {
+void printArray(int arr[MAX_SIZE][MAX_SIZE], char mark) {
     for (int i = 0;i < SIZE;i++) {
         for (int j = 0;j < SIZE;j++) {
             char icon;
@@ -144,7 +159,7 @@ void printArray(int arr[MAX_SIZE][MAX_SIZE]) {
             switch (arr[j][i])
             {
             case -2: icon = '^'; break;
-            case -1: icon = '#'; break;
+            case -1: icon = mark; break;
             default: icon = isMine[j][i]+'0';break;
             }
             cout << "[" << ((icon=='0') ? ' ' : icon) << "]";
@@ -157,11 +172,13 @@ void printArray(int arr[MAX_SIZE][MAX_SIZE]) {
 int main() {
     validSizeAndMines();
 
-    fillMines();
     fillState();
 
-    while(LOST == 0 && MARKED+OPENED!=SIZE*SIZE){
-        printArray(state);
+    while(LOST == 0 && OPENED<SIZE*SIZE-NUMBER_OF_MINES && MARKED<NUMBER_OF_MINES){
+        cin.clear();
+        cin.ignore();
+
+        printArray(state, '#');
 
         cout << "\nPlease enter a command.\n";
         char command[100];
@@ -177,14 +194,23 @@ int main() {
         }else if (!strcmp(command, "unmark")){
             unmark(x,y);
         }else if (!strcmp(command, "open")){
+            if(isFirstTurn){
+                fillMines(x,y);
+                isFirstTurn=false;
+            }
+            
             open(x,y);
         }else{
             cout << "Invalid command! Try again.\n";
         }
         cout << endl;
+        //system("clear");// Needs to be removed for Windows
     }
 
     if(!LOST){
         cout << "You win!\n";
+    }else{
+        cout << "You lose!\n";
     }
+    printArray(isMine, '*');
 }
