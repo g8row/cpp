@@ -1,0 +1,1070 @@
+/videos/dd578580-dcde-abea-e0c6-0c517f1f5798/hls1/main/0.ts
+
+{"Protocol":0,"Id":"dd578580dcdeabeae0c60c517f1f5798","Path":"/home/debian/TV/Andor/Season 1/Andor (2022) - S01E04 (1080p WEB-DL AV1 10bit Opus 5.1 KaNNa).mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv,webm","Size":636527168,"Name":"Andor (2022) - S01E04 (1080p WEB-DL AV1 10bit Opus 5.1 KaNNa)","IsRemote":false,"ETag":"51811d0160207d301a2feeeab122c741","RunTimeTicks":28170639360,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"subrip","CodecTag":null,"Language":"bul","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Bulgarian - SUBRIP - External","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":0,"Score":null,"IsExternal":true,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":"/home/debian/TV/Andor/Season 1/Andor (2022) - S01E04 (1080p WEB-DL AV1 10bit Opus 5.1 KaNNa).bg.srt","PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"av1","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Andor (2022) - S01E04 (1080p AV1) [KaNNa]","VideoRange":"SDR","VideoRangeType":"SDR","VideoDoViTitle":null,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"DisplayTitle":"Andor (2022) - S01E04 (1080p AV1) [KaNNa] - SDR","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":1807632,"BitDepth":10,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"Height":800,"Width":1920,"AverageFrameRate":24,"RealFrameRate":24,"Profile":"Main","Type":1,"AspectRatio":"2.40:1","Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p10le","Level":8,"IsAnamorphic":null},{"Codec":"opus","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Surround Sound 5.1 (192k Opus) [KaNNa]","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"DisplayTitle":"Surround Sound 5.1 (192k Opus) [KaNNa] - English - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"5.1","BitRate":181798,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":true,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English (SDH)","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"English (SDH) - Default - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"cze","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"\u010Ce\u0161tina","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"\u010Ce\u0161tina - Cze - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":4,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"dan","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Dansk","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Dansk - Danish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":5,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ger","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Deutsch","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Deutsch - Ger - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":6,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"gre","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Greek","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Greek - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":7,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Espa\u00F1ol","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Espa\u00F1ol - Spanish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":8,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Espa\u00F1ol (Latinoamericano)","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Espa\u00F1ol (Latinoamericano) - Spanish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":9,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"fin","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Suomi","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Suomi - Finnish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":10,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"fre","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Fran\u00E7ais (Canadien)","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Fran\u00E7ais (Canadien) - Fre - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":11,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"fre","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Fran\u00E7ais","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Fran\u00E7ais - Fre - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":12,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"hun","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Magyar","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Magyar - Hungarian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":13,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ita","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Italiano","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Italiano - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":14,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"jpn","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Japanese","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Japanese - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":15,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"kor","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Korean","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Korean - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":16,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"dut","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Nederlands","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Nederlands - Dut - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":17,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"nor","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Norsk","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Norsk - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":18,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"pol","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Polski","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Polski - Polish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":19,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Portugu\u00EAs","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Portugu\u00EAs - Portuguese - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":20,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Portugu\u00EAs (Brasil)","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Portugu\u00EAs (Brasil) - Portuguese - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":21,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"rum","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Rom\u00E2n\u0103","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Rom\u00E2n\u0103 - Rum - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":22,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"slo","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Sloven\u010Dina","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Sloven\u010Dina - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":23,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"swe","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Svenska","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Svenska - Swedish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":24,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"tur","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"T\u00FCrk\u00E7e","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"T\u00FCrk\u00E7e - Turkish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":25,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"chi","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Chinese (Traditional)","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Chinese (Traditional) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":26,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"chi","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Chinese (Simplified)","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Chinese (Simplified) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":27,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"chi","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Chinese (Hong Kong)","VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Chinese (Hong Kong) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":28,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":1989430,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":null,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -f matroska,webm -autorotate 0 -i file:"/home/debian/TV/Andor/Season 1/Andor (2022) - S01E04 (1080p WEB-DL AV1 10bit Opus 5.1 KaNNa).mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3697460 -bufsize 7394920 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=4:rc_lookahead=10:me=dia:no_chroma_me:8x8dct=0:partitions=none -force_key_frames:0 "expr:gte(t,0+n_forced*3)" -sc_threshold:v:0 0 -vf "setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1920\,800*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1920/a\,800))/2)*2,format=yuv420p" -codec:a:0 ac3 -ac 6 -ab 181798 -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 0 -hls_segment_filename "/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d%d.ts" -hls_playlist_type vod -hls_list_size 0 -y "/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d.m3u8"
+
+
+ffmpeg version 5.1.2-Jellyfin Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 10 (Debian 10.2.1-6)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-libs=-lfftw3f --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-ptx-compression --disable-shared --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto --enable-gpl --enable-version3 --enable-static --enable-gmp --enable-gnutls --enable-chromaprint --enable-libdrm --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libdav1d --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libsvtav1 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-opencl --enable-vaapi --enable-amf --enable-libmfx --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      57. 28.100 / 57. 28.100
+  libavcodec     59. 37.100 / 59. 37.100
+  libavformat    59. 27.100 / 59. 27.100
+  libavdevice    59.  7.100 / 59.  7.100
+  libavfilter     8. 44.100 /  8. 44.100
+  libswscale      6.  7.100 /  6.  7.100
+  libswresample   4.  7.100 /  4.  7.100
+  libpostproc    56.  6.100 / 56.  6.100
+[libdav1d @ 0x56041aae3d00] libdav1d 1.0.0-0-g99172b1
+Input #0, matroska,webm, from 'file:/home/debian/TV/Andor/Season 1/Andor (2022) - S01E04 (1080p WEB-DL AV1 10bit Opus 5.1 KaNNa).mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2022-11-28T17:00:14.000000Z
+  Duration: 00:46:57.06, start: -0.007000, bitrate: 1807 kb/s
+  Stream #0:0: Video: av1 (Main), yuv420p10le(tv, bt709), 1920x800, Film Grain, SAR 1:1 DAR 12:5, 24 fps, 24 tbr, 1k tbn (default)
+    Metadata:
+      title           : Andor (2022) - S01E04 (1080p AV1) [KaNNa]
+      BPS             : 1619852
+      DURATION        : 00:46:57.042000000
+      NUMBER_OF_FRAMES: 67609
+      NUMBER_OF_BYTES : 570399083
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: opus, 48000 Hz, 5.1, fltp (default)
+    Metadata:
+      title           : Surround Sound 5.1 (192k Opus) [KaNNa]
+      BPS             : 181798
+      DURATION        : 00:46:57.064000000
+      NUMBER_OF_FRAMES: 140854
+      NUMBER_OF_BYTES : 64017172
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (default)
+    Metadata:
+      title           : English (SDH)
+      BPS             : 84
+      DURATION        : 00:42:54.667000000
+      NUMBER_OF_FRAMES: 793
+      NUMBER_OF_BYTES : 27300
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(cze): Subtitle: subrip
+    Metadata:
+      title           : Čeština
+      BPS             : 65
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 23086
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(dan): Subtitle: subrip
+    Metadata:
+      title           : Dansk
+      BPS             : 56
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 425
+      NUMBER_OF_BYTES : 19990
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(ger): Subtitle: subrip
+    Metadata:
+      title           : Deutsch
+      BPS             : 70
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 751
+      NUMBER_OF_BYTES : 24713
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(gre): Subtitle: subrip
+    Metadata:
+      title           : Greek
+      BPS             : 123
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 711
+      NUMBER_OF_BYTES : 43355
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(spa): Subtitle: subrip
+    Metadata:
+      title           : Español
+      BPS             : 70
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 24717
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip
+    Metadata:
+      title           : Español (Latinoamericano)
+      BPS             : 67
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 23834
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(fin): Subtitle: subrip
+    Metadata:
+      title           : Suomi
+      BPS             : 70
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 24589
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fre): Subtitle: subrip
+    Metadata:
+      title           : Français (Canadien)
+      BPS             : 71
+      DURATION        : 00:42:52.708000000
+      NUMBER_OF_FRAMES: 687
+      NUMBER_OF_BYTES : 22874
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(fre): Subtitle: subrip
+    Metadata:
+      title           : Français
+      BPS             : 65
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 688
+      NUMBER_OF_BYTES : 22918
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(hun): Subtitle: subrip
+    Metadata:
+      title           : Magyar
+      BPS             : 67
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 709
+      NUMBER_OF_BYTES : 23791
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(ita): Subtitle: subrip
+    Metadata:
+      title           : Italiano
+      BPS             : 71
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 25020
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(jpn): Subtitle: subrip
+    Metadata:
+      title           : Japanese
+      BPS             : 60
+      DURATION        : 00:46:47.208000000
+      NUMBER_OF_FRAMES: 625
+      NUMBER_OF_BYTES : 21271
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(kor): Subtitle: subrip
+    Metadata:
+      title           : Korean
+      BPS             : 74
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 712
+      NUMBER_OF_BYTES : 26197
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(dut): Subtitle: subrip
+    Metadata:
+      title           : Nederlands
+      BPS             : 67
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 585
+      NUMBER_OF_BYTES : 23802
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(nor): Subtitle: subrip
+    Metadata:
+      title           : Norsk
+      BPS             : 62
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 21975
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(pol): Subtitle: subrip
+    Metadata:
+      title           : Polski
+      BPS             : 71
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 711
+      NUMBER_OF_BYTES : 25124
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(por): Subtitle: subrip
+    Metadata:
+      title           : Português
+      BPS             : 66
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 23238
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(por): Subtitle: subrip
+    Metadata:
+      title           : Português (Brasil)
+      BPS             : 73
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 25851
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(rum): Subtitle: subrip
+    Metadata:
+      title           : Română
+      BPS             : 72
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 25598
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(slo): Subtitle: subrip
+    Metadata:
+      title           : Slovenčina
+      BPS             : 67
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 710
+      NUMBER_OF_BYTES : 23686
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(swe): Subtitle: subrip
+    Metadata:
+      title           : Svenska
+      BPS             : 61
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 441
+      NUMBER_OF_BYTES : 21534
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(tur): Subtitle: subrip
+    Metadata:
+      title           : Türkçe
+      BPS             : 73
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 711
+      NUMBER_OF_BYTES : 25683
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(chi): Subtitle: subrip
+    Metadata:
+      title           : Chinese (Traditional)
+      BPS             : 52
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 713
+      NUMBER_OF_BYTES : 18527
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:26(chi): Subtitle: subrip
+    Metadata:
+      title           : Chinese (Simplified)
+      BPS             : 61
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 713
+      NUMBER_OF_BYTES : 21584
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:27(chi): Subtitle: subrip
+    Metadata:
+      title           : Chinese (Hong Kong)
+      BPS             : 60
+      DURATION        : 00:46:47.291000000
+      NUMBER_OF_FRAMES: 713
+      NUMBER_OF_BYTES : 21330
+      _STATISTICS_WRITING_APP: mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2022-11-28 17:00:14
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+[libdav1d @ 0x56041aaf7200] libdav1d 1.0.0-0-g99172b1
+Stream mapping:
+  Stream #0:0 -> #0:0 (av1 (libdav1d) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (opus (native) -> ac3 (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0x56041ac3dc80] using SAR=1/1
+[libx264 @ 0x56041ac3dc80] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+[libx264 @ 0x56041ac3dc80] profile Main, level 5.1, 4:2:0, 8-bit
+[libx264 @ 0x56041ac3dc80] 264 - core 160 r3011 cde9a93 - H.264/MPEG-4 AVC codec - Copyleft 2003-2020 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x1:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=4 chroma_me=0 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=24 scenecut=0 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 vbv_maxrate=3697 vbv_bufsize=7394 crf_max=0.0 nal_hrd=none filler=0 ip_ratio=1.40 aq=1:1.00
+Output #0, hls, to '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d.m3u8':
+  Metadata:
+    encoder         : Lavf59.27.100
+  Stream #0:0: Video: h264, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc59.37.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 3697000/0/0 buffer size: 7394000 vbv_delay: N/A
+  Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 192 kb/s (default)
+    Metadata:
+      encoder         : Lavc59.37.100 ac3
+frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+frame=   57 fps=0.0 q=28.0 size=N/A time=00:00:02.40 bitrate=N/A speed=4.69x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d0.ts' for writing
+frame=  108 fps=106 q=28.0 size=N/A time=00:00:04.48 bitrate=N/A speed=4.41x    
+frame=  150 fps= 99 q=28.0 size=N/A time=00:00:06.30 bitrate=N/A speed=4.16x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d1.ts' for writing
+frame=  199 fps= 98 q=28.0 size=N/A time=00:00:08.38 bitrate=N/A speed=4.13x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d2.ts' for writing
+frame=  254 fps=100 q=28.0 size=N/A time=00:00:10.62 bitrate=N/A speed= 4.2x    
+frame=  302 fps= 99 q=28.0 size=N/A time=00:00:12.64 bitrate=N/A speed=4.16x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d3.ts' for writing
+frame=  351 fps= 99 q=28.0 size=N/A time=00:00:14.65 bitrate=N/A speed=4.14x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d4.ts' for writing
+frame=  393 fps= 97 q=28.0 size=N/A time=00:00:16.38 bitrate=N/A speed=4.04x    
+frame=  433 fps= 95 q=28.0 size=N/A time=00:00:18.08 bitrate=N/A speed=3.96x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d5.ts' for writing
+frame=  486 fps= 96 q=28.0 size=N/A time=00:00:20.35 bitrate=N/A speed=4.02x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d6.ts' for writing
+frame=  543 fps= 97 q=28.0 size=N/A time=00:00:22.75 bitrate=N/A speed=4.08x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d7.ts' for writing
+frame=  603 fps= 99 q=28.0 size=N/A time=00:00:25.12 bitrate=N/A speed=4.13x    
+frame=  664 fps=101 q=25.0 size=N/A time=00:00:27.68 bitrate=N/A speed=4.21x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d8.ts' for writing
+frame=  726 fps=103 q=28.0 size=N/A time=00:00:30.30 bitrate=N/A speed=4.28x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d9.ts' for writing
+frame=  783 fps=103 q=28.0 size=N/A time=00:00:32.73 bitrate=N/A speed=4.32x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d10.ts' for writing
+frame=  839 fps=104 q=28.0 size=N/A time=00:00:35.00 bitrate=N/A speed=4.33x    
+frame=  888 fps=103 q=28.0 size=N/A time=00:00:37.05 bitrate=N/A speed=4.31x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d11.ts' for writing
+frame=  935 fps=103 q=28.0 size=N/A time=00:00:39.00 bitrate=N/A speed=4.29x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d12.ts' for writing
+frame=  982 fps=102 q=28.0 size=N/A time=00:00:40.99 bitrate=N/A speed=4.27x    
+frame= 1027 fps=101 q=28.0 size=N/A time=00:00:42.84 bitrate=N/A speed=4.23x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d13.ts' for writing
+frame= 1079 fps=101 q=28.0 size=N/A time=00:00:45.02 bitrate=N/A speed=4.23x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d14.ts' for writing
+frame= 1137 fps=102 q=28.0 size=N/A time=00:00:47.39 bitrate=N/A speed=4.26x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d15.ts' for writing
+frame= 1199 fps=103 q=28.0 size=N/A time=00:00:50.08 bitrate=N/A speed= 4.3x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d16.ts' for writing
+frame= 1260 fps=104 q=28.0 size=N/A time=00:00:52.64 bitrate=N/A speed=4.33x    
+frame= 1315 fps=104 q=28.0 size=N/A time=00:00:54.94 bitrate=N/A speed=4.34x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d17.ts' for writing
+frame= 1346 fps=102 q=28.0 size=N/A time=00:00:56.16 bitrate=N/A speed=4.27x    
+frame= 1389 fps=102 q=31.0 size=N/A time=00:00:57.92 bitrate=N/A speed=4.24x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d18.ts' for writing
+frame= 1436 fps=101 q=28.0 size=N/A time=00:00:59.90 bitrate=N/A speed=4.23x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d19.ts' for writing
+frame= 1475 fps=101 q=28.0 size=N/A time=00:01:01.53 bitrate=N/A speed=4.19x    
+frame= 1521 fps=100 q=28.0 size=N/A time=00:01:03.42 bitrate=N/A speed=4.18x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d20.ts' for writing
+frame= 1565 fps=100 q=28.0 size=N/A time=00:01:05.28 bitrate=N/A speed=4.16x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d21.ts' for writing
+frame= 1615 fps=100 q=28.0 size=N/A time=00:01:07.32 bitrate=N/A speed=4.16x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d22.ts' for writing
+frame= 1688 fps=101 q=28.0 size=N/A time=00:01:10.40 bitrate=N/A speed=4.21x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d23.ts' for writing
+frame= 1764 fps=103 q=28.0 size=N/A time=00:01:13.53 bitrate=N/A speed=4.27x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d24.ts' for writing
+frame= 1840 fps=104 q=28.0 size=N/A time=00:01:16.70 bitrate=N/A speed=4.33x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d25.ts' for writing
+frame= 1902 fps=104 q=28.0 size=N/A time=00:01:19.26 bitrate=N/A speed=4.35x    
+frame= 1967 fps=105 q=28.0 size=N/A time=00:01:21.92 bitrate=N/A speed=4.37x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d26.ts' for writing
+frame= 2037 fps=106 q=28.0 size=N/A time=00:01:24.89 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d27.ts' for writing
+frame= 2110 fps=107 q=28.0 size=N/A time=00:01:27.93 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d28.ts' for writing
+frame= 2185 fps=108 q=28.0 size=N/A time=00:01:31.10 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d29.ts' for writing
+frame= 2250 fps=108 q=28.0 size=N/A time=00:01:33.85 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d30.ts' for writing
+frame= 2322 fps=109 q=28.0 size=N/A time=00:01:36.83 bitrate=N/A speed=4.56x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d31.ts' for writing
+frame= 2390 fps=110 q=28.0 size=N/A time=00:01:39.68 bitrate=N/A speed=4.58x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d32.ts' for writing
+frame= 2458 fps=110 q=28.0 size=N/A time=00:01:42.49 bitrate=N/A speed= 4.6x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d33.ts' for writing
+frame= 2529 fps=111 q=28.0 size=N/A time=00:01:45.37 bitrate=N/A speed=4.63x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d34.ts' for writing
+frame= 2599 fps=112 q=28.0 size=N/A time=00:01:48.38 bitrate=N/A speed=4.66x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d35.ts' for writing
+frame= 2668 fps=112 q=28.0 size=N/A time=00:01:51.23 bitrate=N/A speed=4.68x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d36.ts' for writing
+frame= 2736 fps=113 q=28.0 size=N/A time=00:01:54.11 bitrate=N/A speed= 4.7x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d37.ts' for writing
+frame= 2804 fps=113 q=28.0 size=N/A time=00:01:56.96 bitrate=N/A speed=4.72x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d38.ts' for writing
+frame= 2871 fps=113 q=28.0 size=N/A time=00:01:59.68 bitrate=N/A speed=4.73x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d39.ts' for writing
+frame= 2945 fps=114 q=28.0 size=N/A time=00:02:02.81 bitrate=N/A speed=4.76x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d40.ts' for writing
+frame= 3021 fps=115 q=28.0 size=N/A time=00:02:05.98 bitrate=N/A speed=4.79x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d41.ts' for writing
+frame= 3076 fps=115 q=28.0 size=N/A time=00:02:08.22 bitrate=N/A speed=4.78x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d42.ts' for writing
+frame= 3128 fps=114 q=28.0 size=N/A time=00:02:10.40 bitrate=N/A speed=4.77x    
+frame= 3178 fps=114 q=28.0 size=N/A time=00:02:12.48 bitrate=N/A speed=4.76x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d43.ts' for writing
+frame= 3227 fps=114 q=28.0 size=N/A time=00:02:14.52 bitrate=N/A speed=4.75x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d44.ts' for writing
+frame= 3274 fps=114 q=28.0 size=N/A time=00:02:16.41 bitrate=N/A speed=4.73x    
+frame= 3319 fps=113 q=28.0 size=N/A time=00:02:18.30 bitrate=N/A speed=4.71x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d45.ts' for writing
+frame= 3370 fps=113 q=28.0 size=N/A time=00:02:20.38 bitrate=N/A speed= 4.7x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d46.ts' for writing
+frame= 3415 fps=113 q=28.0 size=N/A time=00:02:22.33 bitrate=N/A speed=4.69x    
+frame= 3466 fps=112 q=28.0 size=N/A time=00:02:24.41 bitrate=N/A speed=4.68x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d47.ts' for writing
+frame= 3507 fps=112 q=28.0 size=N/A time=00:02:26.14 bitrate=N/A speed=4.66x    
+frame= 3553 fps=111 q=28.0 size=N/A time=00:02:28.09 bitrate=N/A speed=4.65x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d48.ts' for writing
+frame= 3598 fps=111 q=28.0 size=N/A time=00:02:30.01 bitrate=N/A speed=4.63x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d49.ts' for writing
+frame= 3642 fps=111 q=28.0 size=N/A time=00:02:31.80 bitrate=N/A speed=4.62x    
+frame= 3694 fps=111 q=28.0 size=N/A time=00:02:33.98 bitrate=N/A speed=4.61x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d50.ts' for writing
+frame= 3741 fps=110 q=28.0 size=N/A time=00:02:35.90 bitrate=N/A speed= 4.6x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d51.ts' for writing
+frame= 3791 fps=110 q=28.0 size=N/A time=00:02:37.98 bitrate=N/A speed=4.59x    
+frame= 3841 fps=110 q=28.0 size=N/A time=00:02:40.16 bitrate=N/A speed=4.59x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d52.ts' for writing
+frame= 3888 fps=110 q=28.0 size=N/A time=00:02:42.08 bitrate=N/A speed=4.58x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d53.ts' for writing
+frame= 3936 fps=110 q=28.0 size=N/A time=00:02:44.16 bitrate=N/A speed=4.57x    
+frame= 3986 fps=109 q=28.0 size=N/A time=00:02:46.14 bitrate=N/A speed=4.56x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d54.ts' for writing
+frame= 4040 fps=109 q=28.0 size=N/A time=00:02:48.44 bitrate=N/A speed=4.56x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d55.ts' for writing
+frame= 4096 fps=109 q=28.0 size=N/A time=00:02:50.72 bitrate=N/A speed=4.56x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d56.ts' for writing
+frame= 4146 fps=109 q=28.0 size=N/A time=00:02:52.80 bitrate=N/A speed=4.56x    
+frame= 4200 fps=109 q=28.0 size=N/A time=00:02:55.10 bitrate=N/A speed=4.56x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d57.ts' for writing
+frame= 4250 fps=109 q=28.0 size=N/A time=00:02:57.18 bitrate=N/A speed=4.55x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d58.ts' for writing
+frame= 4300 fps=109 q=28.0 size=N/A time=00:02:59.23 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d59.ts' for writing
+frame= 4347 fps=109 q=28.0 size=N/A time=00:03:01.15 bitrate=N/A speed=4.54x    
+frame= 4397 fps=109 q=28.0 size=N/A time=00:03:03.26 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d60.ts' for writing
+frame= 4448 fps=109 q=28.0 size=N/A time=00:03:05.34 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d61.ts' for writing
+frame= 4497 fps=108 q=28.0 size=N/A time=00:03:07.42 bitrate=N/A speed=4.52x    
+frame= 4548 fps=108 q=28.0 size=N/A time=00:03:09.63 bitrate=N/A speed=4.52x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d62.ts' for writing
+frame= 4600 fps=108 q=28.0 size=N/A time=00:03:11.71 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d63.ts' for writing
+frame= 4652 fps=108 q=28.0 size=N/A time=00:03:13.85 bitrate=N/A speed=4.51x    
+frame= 4702 fps=108 q=28.0 size=N/A time=00:03:15.93 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d64.ts' for writing
+frame= 4753 fps=108 q=28.0 size=N/A time=00:03:18.14 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d65.ts' for writing
+frame= 4805 fps=108 q=28.0 size=N/A time=00:03:20.22 bitrate=N/A speed= 4.5x    
+frame= 4850 fps=108 q=28.0 size=N/A time=00:03:22.14 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d66.ts' for writing
+frame= 4902 fps=108 q=28.0 size=N/A time=00:03:24.25 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d67.ts' for writing
+frame= 4953 fps=108 q=28.0 size=N/A time=00:03:26.49 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d68.ts' for writing
+frame= 5004 fps=108 q=28.0 size=N/A time=00:03:28.54 bitrate=N/A speed=4.48x    
+frame= 5050 fps=107 q=28.0 size=N/A time=00:03:30.46 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d69.ts' for writing
+frame= 5100 fps=107 q=28.0 size=N/A time=00:03:32.54 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d70.ts' for writing
+frame= 5149 fps=107 q=28.0 size=N/A time=00:03:34.62 bitrate=N/A speed=4.47x    
+frame= 5202 fps=107 q=28.0 size=N/A time=00:03:36.86 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d71.ts' for writing
+frame= 5257 fps=107 q=28.0 size=N/A time=00:03:39.07 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d72.ts' for writing
+frame= 5311 fps=107 q=28.0 size=N/A time=00:03:41.34 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d73.ts' for writing
+frame= 5367 fps=107 q=28.0 size=N/A time=00:03:43.64 bitrate=N/A speed=4.47x    
+frame= 5420 fps=107 q=28.0 size=N/A time=00:03:45.85 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d74.ts' for writing
+frame= 5476 fps=107 q=28.0 size=N/A time=00:03:48.22 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d75.ts' for writing
+frame= 5532 fps=107 q=28.0 size=N/A time=00:03:50.62 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d76.ts' for writing
+frame= 5581 fps=107 q=28.0 size=N/A time=00:03:52.57 bitrate=N/A speed=4.46x    
+frame= 5627 fps=107 q=28.0 size=N/A time=00:03:54.49 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d77.ts' for writing
+frame= 5677 fps=107 q=28.0 size=N/A time=00:03:56.57 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d78.ts' for writing
+frame= 5737 fps=107 q=28.0 size=N/A time=00:03:59.10 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d79.ts' for writing
+frame= 5793 fps=107 q=28.0 size=N/A time=00:04:01.50 bitrate=N/A speed=4.46x    
+frame= 5842 fps=107 q=28.0 size=N/A time=00:04:03.48 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d80.ts' for writing
+frame= 5887 fps=107 q=28.0 size=N/A time=00:04:05.40 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d81.ts' for writing
+frame= 5945 fps=107 q=28.0 size=N/A time=00:04:07.80 bitrate=N/A speed=4.45x    
+frame= 6001 fps=107 q=28.0 size=N/A time=00:04:10.17 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d82.ts' for writing
+frame= 6056 fps=107 q=28.0 size=N/A time=00:04:12.32 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d83.ts' for writing
+frame= 6108 fps=107 q=28.0 size=N/A time=00:04:14.56 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d84.ts' for writing
+frame= 6163 fps=107 q=28.0 size=N/A time=00:04:16.80 bitrate=N/A speed=4.45x    
+frame= 6207 fps=107 q=28.0 size=N/A time=00:04:18.72 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d85.ts' for writing
+frame= 6262 fps=107 q=28.0 size=N/A time=00:04:20.92 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d86.ts' for writing
+frame= 6316 fps=107 q=28.0 size=N/A time=00:04:23.29 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d87.ts' for writing
+frame= 6370 fps=107 q=28.0 size=N/A time=00:04:25.53 bitrate=N/A speed=4.45x    
+frame= 6418 fps=107 q=28.0 size=N/A time=00:04:27.42 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d88.ts' for writing
+frame= 6465 fps=106 q=28.0 size=N/A time=00:04:29.44 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d89.ts' for writing
+frame= 6518 fps=106 q=28.0 size=N/A time=00:04:31.68 bitrate=N/A speed=4.44x    
+frame= 6568 fps=106 q=25.0 size=N/A time=00:04:33.72 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d90.ts' for writing
+frame= 6622 fps=106 q=28.0 size=N/A time=00:04:36.00 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d91.ts' for writing
+frame= 6677 fps=106 q=28.0 size=N/A time=00:04:38.24 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d92.ts' for writing
+frame= 6729 fps=106 q=28.0 size=N/A time=00:04:40.48 bitrate=N/A speed=4.43x    
+frame= 6779 fps=106 q=28.0 size=N/A time=00:04:42.56 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d93.ts' for writing
+frame= 6830 fps=106 q=28.0 size=N/A time=00:04:44.57 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d94.ts' for writing
+frame= 6883 fps=106 q=28.0 size=N/A time=00:04:46.84 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d95.ts' for writing
+frame= 6939 fps=106 q=28.0 size=N/A time=00:04:49.24 bitrate=N/A speed=4.43x    
+frame= 6995 fps=106 q=28.0 size=N/A time=00:04:51.48 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d96.ts' for writing
+frame= 7050 fps=106 q=28.0 size=N/A time=00:04:53.85 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d97.ts' for writing
+frame= 7100 fps=106 q=28.0 size=N/A time=00:04:55.93 bitrate=N/A speed=4.43x    
+frame= 7150 fps=106 q=28.0 size=N/A time=00:04:58.01 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d98.ts' for writing
+frame= 7202 fps=106 q=28.0 size=N/A time=00:05:00.12 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d99.ts' for writing
+frame= 7253 fps=106 q=28.0 size=N/A time=00:05:02.30 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d100.ts' for writing
+frame= 7307 fps=106 q=28.0 size=N/A time=00:05:04.54 bitrate=N/A speed=4.42x    
+frame= 7363 fps=106 q=28.0 size=N/A time=00:05:06.81 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d101.ts' for writing
+frame= 7415 fps=106 q=28.0 size=N/A time=00:05:09.05 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d102.ts' for writing
+frame= 7471 fps=106 q=28.0 size=N/A time=00:05:11.42 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d103.ts' for writing
+frame= 7519 fps=106 q=28.0 size=N/A time=00:05:13.34 bitrate=N/A speed=4.42x    
+frame= 7567 fps=106 q=28.0 size=N/A time=00:05:15.42 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d104.ts' for writing
+frame= 7623 fps=106 q=28.0 size=N/A time=00:05:17.66 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d105.ts' for writing
+frame= 7676 fps=106 q=28.0 size=N/A time=00:05:19.84 bitrate=N/A speed=4.41x    
+frame= 7724 fps=106 q=28.0 size=N/A time=00:05:21.92 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d106.ts' for writing
+frame= 7778 fps=106 q=28.0 size=N/A time=00:05:24.16 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d107.ts' for writing
+frame= 7830 fps=106 q=28.0 size=N/A time=00:05:26.24 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d108.ts' for writing
+frame= 7882 fps=106 q=28.0 size=N/A time=00:05:28.54 bitrate=N/A speed=4.41x    
+frame= 7938 fps=106 q=28.0 size=N/A time=00:05:30.81 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d109.ts' for writing
+frame= 7994 fps=106 q=28.0 size=N/A time=00:05:33.08 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d110.ts' for writing
+frame= 8053 fps=106 q=28.0 size=N/A time=00:05:35.61 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d111.ts' for writing
+frame= 8112 fps=106 q=28.0 size=N/A time=00:05:38.01 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d112.ts' for writing
+frame= 8170 fps=106 q=28.0 size=N/A time=00:05:40.54 bitrate=N/A speed=4.42x    
+frame= 8226 fps=106 q=28.0 size=N/A time=00:05:42.84 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d113.ts' for writing
+frame= 8285 fps=106 q=28.0 size=N/A time=00:05:45.21 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d114.ts' for writing
+frame= 8343 fps=106 q=28.0 size=N/A time=00:05:47.71 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d115.ts' for writing
+frame= 8401 fps=106 q=28.0 size=N/A time=00:05:50.11 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d116.ts' for writing
+frame= 8460 fps=106 q=28.0 size=N/A time=00:05:52.54 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d117.ts' for writing
+frame= 8523 fps=106 q=28.0 size=N/A time=00:05:55.26 bitrate=N/A speed=4.44x    
+frame= 8578 fps=106 q=28.0 size=N/A time=00:05:57.44 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d118.ts' for writing
+frame= 8632 fps=106 q=28.0 size=N/A time=00:05:59.74 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d119.ts' for writing
+frame= 8688 fps=106 q=28.0 size=N/A time=00:06:02.14 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d120.ts' for writing
+frame= 8745 fps=107 q=28.0 size=N/A time=00:06:04.38 bitrate=N/A speed=4.44x    
+frame= 8801 fps=107 q=28.0 size=N/A time=00:06:06.72 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d121.ts' for writing
+frame= 8859 fps=107 q=28.0 size=N/A time=00:06:09.18 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d122.ts' for writing
+frame= 8917 fps=107 q=28.0 size=N/A time=00:06:11.58 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d123.ts' for writing
+frame= 8973 fps=107 q=28.0 size=N/A time=00:06:13.92 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d124.ts' for writing
+frame= 9029 fps=107 q=28.0 size=N/A time=00:06:16.32 bitrate=N/A speed=4.45x    
+frame= 9087 fps=107 q=28.0 size=N/A time=00:06:18.72 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d125.ts' for writing
+frame= 9147 fps=107 q=28.0 size=N/A time=00:06:21.15 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d126.ts' for writing
+frame= 9203 fps=107 q=28.0 size=N/A time=00:06:23.52 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d127.ts' for writing
+frame= 9257 fps=107 q=28.0 size=N/A time=00:06:25.76 bitrate=N/A speed=4.45x    
+frame= 9307 fps=107 q=28.0 size=N/A time=00:06:27.84 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d128.ts' for writing
+frame= 9353 fps=107 q=28.0 size=N/A time=00:06:29.76 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d129.ts' for writing
+frame= 9401 fps=107 q=28.0 size=N/A time=00:06:31.84 bitrate=N/A speed=4.44x    
+frame= 9455 fps=107 q=28.0 size=N/A time=00:06:33.92 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d130.ts' for writing
+frame= 9501 fps=106 q=28.0 size=N/A time=00:06:35.87 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d131.ts' for writing
+frame= 9545 fps=106 q=28.0 size=N/A time=00:06:37.76 bitrate=N/A speed=4.43x    
+frame= 9592 fps=106 q=25.0 size=N/A time=00:06:39.74 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d132.ts' for writing
+frame= 9635 fps=106 q=28.0 size=N/A time=00:06:41.50 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d133.ts' for writing
+frame= 9681 fps=106 q=28.0 size=N/A time=00:06:43.42 bitrate=N/A speed=4.42x    
+frame= 9725 fps=106 q=28.0 size=N/A time=00:06:45.28 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d134.ts' for writing
+frame= 9769 fps=106 q=28.0 size=N/A time=00:06:47.04 bitrate=N/A speed=4.41x    
+frame= 9811 fps=106 q=28.0 size=N/A time=00:06:48.96 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d135.ts' for writing
+frame= 9857 fps=106 q=28.0 size=N/A time=00:06:50.72 bitrate=N/A speed= 4.4x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d136.ts' for writing
+frame= 9905 fps=106 q=28.0 size=N/A time=00:06:52.73 bitrate=N/A speed= 4.4x    
+frame= 9955 fps=106 q=28.0 size=N/A time=00:06:54.81 bitrate=N/A speed= 4.4x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d137.ts' for writing
+frame=10009 fps=106 q=28.0 size=N/A time=00:06:57.08 bitrate=N/A speed= 4.4x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d138.ts' for writing
+frame=10066 fps=106 q=28.0 size=N/A time=00:06:59.58 bitrate=N/A speed= 4.4x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d139.ts' for writing
+frame=10123 fps=106 q=28.0 size=N/A time=00:07:01.92 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d140.ts' for writing
+frame=10187 fps=106 q=28.0 size=N/A time=00:07:04.48 bitrate=N/A speed=4.41x    
+frame=10244 fps=106 q=28.0 size=N/A time=00:07:06.88 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d141.ts' for writing
+frame=10306 fps=106 q=28.0 size=N/A time=00:07:09.44 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d142.ts' for writing
+frame=10360 fps=106 q=28.0 size=N/A time=00:07:11.68 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d143.ts' for writing
+frame=10412 fps=106 q=28.0 size=N/A time=00:07:13.88 bitrate=N/A speed=4.41x    
+frame=10465 fps=106 q=28.0 size=N/A time=00:07:16.06 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d144.ts' for writing
+frame=10519 fps=106 q=28.0 size=N/A time=00:07:18.30 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d145.ts' for writing
+frame=10570 fps=106 q=28.0 size=N/A time=00:07:20.51 bitrate=N/A speed=4.41x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d146.ts' for writing
+frame=10628 fps=106 q=28.0 size=N/A time=00:07:22.88 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d147.ts' for writing
+frame=10692 fps=106 q=28.0 size=N/A time=00:07:25.56 bitrate=N/A speed=4.42x    
+frame=10754 fps=106 q=28.0 size=N/A time=00:07:28.12 bitrate=N/A speed=4.42x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d148.ts' for writing
+frame=10816 fps=106 q=25.0 size=N/A time=00:07:30.68 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d149.ts' for writing
+frame=10876 fps=106 q=28.0 size=N/A time=00:07:33.21 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d150.ts' for writing
+frame=10941 fps=106 q=28.0 size=N/A time=00:07:35.90 bitrate=N/A speed=4.43x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d151.ts' for writing
+frame=11008 fps=107 q=28.0 size=N/A time=00:07:38.68 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d152.ts' for writing
+frame=11075 fps=107 q=28.0 size=N/A time=00:07:41.50 bitrate=N/A speed=4.44x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d153.ts' for writing
+frame=11145 fps=107 q=28.0 size=N/A time=00:07:44.38 bitrate=N/A speed=4.45x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d154.ts' for writing
+frame=11214 fps=107 q=28.0 size=N/A time=00:07:47.29 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d155.ts' for writing
+frame=11282 fps=107 q=28.0 size=N/A time=00:07:50.14 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d156.ts' for writing
+frame=11344 fps=107 q=28.0 size=N/A time=00:07:52.70 bitrate=N/A speed=4.46x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d157.ts' for writing
+frame=11403 fps=107 q=28.0 size=N/A time=00:07:55.13 bitrate=N/A speed=4.47x    
+frame=11455 fps=107 q=28.0 size=N/A time=00:07:57.37 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d158.ts' for writing
+frame=11507 fps=107 q=28.0 size=N/A time=00:07:59.58 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d159.ts' for writing
+frame=11578 fps=107 q=28.0 size=N/A time=00:08:02.46 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d160.ts' for writing
+frame=11639 fps=107 q=28.0 size=N/A time=00:08:05.05 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d161.ts' for writing
+frame=11710 fps=108 q=28.0 size=N/A time=00:08:07.96 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d162.ts' for writing
+frame=11774 fps=108 q=28.0 size=N/A time=00:08:10.68 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d163.ts' for writing
+frame=11839 fps=108 q=28.0 size=N/A time=00:08:13.34 bitrate=N/A speed=4.49x    
+frame=11886 fps=108 q=28.0 size=N/A time=00:08:15.29 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d164.ts' for writing
+frame=11946 fps=108 q=28.0 size=N/A time=00:08:17.82 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d165.ts' for writing
+frame=11998 fps=108 q=28.0 size=N/A time=00:08:19.90 bitrate=N/A speed=4.49x    
+frame=12046 fps=108 q=28.0 size=N/A time=00:08:21.98 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d166.ts' for writing
+frame=12094 fps=108 q=28.0 size=N/A time=00:08:23.93 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d167.ts' for writing
+frame=12159 fps=108 q=28.0 size=N/A time=00:08:26.65 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d168.ts' for writing
+frame=12219 fps=108 q=28.0 size=N/A time=00:08:29.18 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d169.ts' for writing
+frame=12272 fps=108 q=28.0 size=N/A time=00:08:31.39 bitrate=N/A speed=4.49x    
+frame=12322 fps=108 q=28.0 size=N/A time=00:08:33.47 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d170.ts' for writing
+frame=12378 fps=108 q=28.0 size=N/A time=00:08:35.77 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d171.ts' for writing
+frame=12445 fps=108 q=28.0 size=N/A time=00:08:38.65 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d172.ts' for writing
+frame=12506 fps=108 q=28.0 size=N/A time=00:08:41.08 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d173.ts' for writing
+frame=12568 fps=108 q=28.0 size=N/A time=00:08:43.77 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d174.ts' for writing
+frame=12628 fps=108 q=28.0 size=N/A time=00:08:46.24 bitrate=N/A speed= 4.5x    
+frame=12690 fps=108 q=28.0 size=N/A time=00:08:48.76 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d175.ts' for writing
+frame=12754 fps=108 q=28.0 size=N/A time=00:08:51.45 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d176.ts' for writing
+frame=12818 fps=108 q=28.0 size=N/A time=00:08:54.17 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d177.ts' for writing
+frame=12881 fps=108 q=28.0 size=N/A time=00:08:56.73 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d178.ts' for writing
+frame=12942 fps=108 q=28.0 size=N/A time=00:08:59.29 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d179.ts' for writing
+frame=13000 fps=108 q=28.0 size=N/A time=00:09:01.76 bitrate=N/A speed=4.51x    
+frame=13055 fps=108 q=28.0 size=N/A time=00:09:04.00 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d180.ts' for writing
+frame=13101 fps=108 q=28.0 size=N/A time=00:09:05.92 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d181.ts' for writing
+frame=13158 fps=108 q=28.0 size=N/A time=00:09:08.35 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d182.ts' for writing
+frame=13215 fps=108 q=28.0 size=N/A time=00:09:10.75 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d183.ts' for writing
+frame=13276 fps=108 q=28.0 size=N/A time=00:09:13.28 bitrate=N/A speed=4.51x    
+frame=13336 fps=108 q=25.0 size=N/A time=00:09:15.74 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d184.ts' for writing
+frame=13383 fps=108 q=28.0 size=N/A time=00:09:17.72 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d185.ts' for writing
+frame=13429 fps=108 q=28.0 size=N/A time=00:09:19.64 bitrate=N/A speed=4.51x    
+frame=13476 fps=108 q=28.0 size=N/A time=00:09:21.60 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d186.ts' for writing
+frame=13524 fps=108 q=28.0 size=N/A time=00:09:23.58 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d187.ts' for writing
+frame=13572 fps=108 q=28.0 size=N/A time=00:09:25.50 bitrate=N/A speed= 4.5x    
+frame=13619 fps=108 q=28.0 size=N/A time=00:09:27.48 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d188.ts' for writing
+frame=13675 fps=108 q=28.0 size=N/A time=00:09:29.88 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d189.ts' for writing
+frame=13737 fps=108 q=28.0 size=N/A time=00:09:32.41 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d190.ts' for writing
+frame=13797 fps=108 q=28.0 size=N/A time=00:09:34.88 bitrate=N/A speed= 4.5x    
+frame=13844 fps=108 q=28.0 size=N/A time=00:09:36.96 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d191.ts' for writing
+frame=13906 fps=108 q=28.0 size=N/A time=00:09:39.45 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d192.ts' for writing
+frame=13969 fps=108 q=28.0 size=N/A time=00:09:42.08 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d193.ts' for writing
+frame=14024 fps=108 q=28.0 size=N/A time=00:09:44.32 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d194.ts' for writing
+frame=14070 fps=108 q=28.0 size=N/A time=00:09:46.24 bitrate=N/A speed= 4.5x    
+frame=14125 fps=108 q=28.0 size=N/A time=00:09:48.57 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d195.ts' for writing
+frame=14169 fps=108 q=28.0 size=N/A time=00:09:50.43 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d196.ts' for writing
+frame=14215 fps=108 q=28.0 size=N/A time=00:09:52.32 bitrate=N/A speed= 4.5x    
+frame=14256 fps=108 q=28.0 size=N/A time=00:09:54.08 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d197.ts' for writing
+frame=14298 fps=108 q=28.0 size=N/A time=00:09:55.84 bitrate=N/A speed=4.49x    
+frame=14353 fps=108 q=28.0 size=N/A time=00:09:58.14 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d198.ts' for writing
+frame=14406 fps=108 q=28.0 size=N/A time=00:10:00.25 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d199.ts' for writing
+frame=14454 fps=108 q=28.0 size=N/A time=00:10:02.30 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d200.ts' for writing
+frame=14507 fps=108 q=28.0 size=N/A time=00:10:04.54 bitrate=N/A speed=4.49x    
+frame=14567 fps=108 q=28.0 size=N/A time=00:10:06.94 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d201.ts' for writing
+frame=14624 fps=108 q=28.0 size=N/A time=00:10:09.44 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d202.ts' for writing
+frame=14670 fps=108 q=28.0 size=N/A time=00:10:11.29 bitrate=N/A speed=4.48x    
+frame=14714 fps=108 q=28.0 size=N/A time=00:10:13.21 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d203.ts' for writing
+frame=14763 fps=108 q=28.0 size=N/A time=00:10:15.20 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d204.ts' for writing
+frame=14817 fps=108 q=28.0 size=N/A time=00:10:17.34 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d205.ts' for writing
+frame=14868 fps=107 q=28.0 size=N/A time=00:10:19.61 bitrate=N/A speed=4.48x    
+frame=14917 fps=107 q=28.0 size=N/A time=00:10:21.53 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d206.ts' for writing
+frame=14972 fps=107 q=28.0 size=N/A time=00:10:23.90 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d207.ts' for writing
+frame=15026 fps=107 q=28.0 size=N/A time=00:10:26.24 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d208.ts' for writing
+frame=15088 fps=108 q=28.0 size=N/A time=00:10:28.73 bitrate=N/A speed=4.48x    
+frame=15136 fps=107 q=25.0 size=N/A time=00:10:30.65 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d209.ts' for writing
+frame=15183 fps=107 q=28.0 size=N/A time=00:10:32.73 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d210.ts' for writing
+frame=15237 fps=107 q=28.0 size=N/A time=00:10:34.88 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d211.ts' for writing
+frame=15291 fps=107 q=28.0 size=N/A time=00:10:37.15 bitrate=N/A speed=4.48x    
+frame=15347 fps=107 q=28.0 size=N/A time=00:10:39.52 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d212.ts' for writing
+frame=15403 fps=107 q=28.0 size=N/A time=00:10:41.82 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d213.ts' for writing
+frame=15456 fps=107 q=28.0 size=N/A time=00:10:44.06 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d214.ts' for writing
+frame=15512 fps=107 q=28.0 size=N/A time=00:10:46.43 bitrate=N/A speed=4.48x    
+frame=15570 fps=107 q=28.0 size=N/A time=00:10:48.83 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d215.ts' for writing
+frame=15624 fps=107 q=28.0 size=N/A time=00:10:51.04 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d216.ts' for writing
+frame=15680 fps=107 q=28.0 size=N/A time=00:10:53.50 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d217.ts' for writing
+frame=15733 fps=107 q=28.0 size=N/A time=00:10:55.58 bitrate=N/A speed=4.48x    
+frame=15789 fps=107 q=28.0 size=N/A time=00:10:57.98 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d218.ts' for writing
+frame=15846 fps=107 q=28.0 size=N/A time=00:11:00.32 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d219.ts' for writing
+frame=15898 fps=107 q=28.0 size=N/A time=00:11:02.40 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d220.ts' for writing
+frame=15954 fps=107 q=28.0 size=N/A time=00:11:04.80 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d221.ts' for writing
+frame=16019 fps=108 q=28.0 size=N/A time=00:11:07.52 bitrate=N/A speed=4.48x    
+frame=16077 fps=108 q=28.0 size=N/A time=00:11:09.92 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d222.ts' for writing
+frame=16134 fps=108 q=28.0 size=N/A time=00:11:12.28 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d223.ts' for writing
+frame=16189 fps=108 q=28.0 size=N/A time=00:11:14.65 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d224.ts' for writing
+frame=16238 fps=108 q=28.0 size=N/A time=00:11:16.70 bitrate=N/A speed=4.48x    
+frame=16288 fps=108 q=25.0 size=N/A time=00:11:18.75 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d225.ts' for writing
+frame=16342 fps=108 q=28.0 size=N/A time=00:11:20.92 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d226.ts' for writing
+frame=16393 fps=107 q=28.0 size=N/A time=00:11:23.10 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d227.ts' for writing
+frame=16444 fps=107 q=28.0 size=N/A time=00:11:25.18 bitrate=N/A speed=4.48x    
+frame=16486 fps=107 q=28.0 size=N/A time=00:11:27.00 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d228.ts' for writing
+frame=16531 fps=107 q=28.0 size=N/A time=00:11:28.80 bitrate=N/A speed=4.47x    
+frame=16580 fps=107 q=28.0 size=N/A time=00:11:30.91 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d229.ts' for writing
+frame=16630 fps=107 q=28.0 size=N/A time=00:11:32.92 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d230.ts' for writing
+frame=16681 fps=107 q=28.0 size=N/A time=00:11:35.16 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d231.ts' for writing
+frame=16731 fps=107 q=28.0 size=N/A time=00:11:37.18 bitrate=N/A speed=4.47x    
+frame=16790 fps=107 q=28.0 size=N/A time=00:11:39.64 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d232.ts' for writing
+frame=16858 fps=107 q=28.0 size=N/A time=00:11:42.56 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d233.ts' for writing
+frame=16928 fps=107 q=28.0 size=N/A time=00:11:45.34 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d234.ts' for writing
+frame=16993 fps=108 q=28.0 size=N/A time=00:11:48.16 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d235.ts' for writing
+frame=17055 fps=108 q=28.0 size=N/A time=00:11:50.62 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d236.ts' for writing
+frame=17110 fps=108 q=28.0 size=N/A time=00:11:52.89 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d237.ts' for writing
+frame=17166 fps=108 q=28.0 size=N/A time=00:11:55.29 bitrate=N/A speed=4.48x    
+frame=17222 fps=108 q=28.0 size=N/A time=00:11:57.63 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d238.ts' for writing
+frame=17274 fps=108 q=28.0 size=N/A time=00:11:59.77 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d239.ts' for writing
+frame=17329 fps=108 q=28.0 size=N/A time=00:12:02.17 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d240.ts' for writing
+frame=17384 fps=108 q=28.0 size=N/A time=00:12:04.41 bitrate=N/A speed=4.48x    
+frame=17441 fps=108 q=28.0 size=N/A time=00:12:06.78 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d241.ts' for writing
+frame=17495 fps=108 q=28.0 size=N/A time=00:12:09.02 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d242.ts' for writing
+frame=17549 fps=108 q=28.0 size=N/A time=00:12:11.26 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d243.ts' for writing
+frame=17606 fps=108 q=28.0 size=N/A time=00:12:13.69 bitrate=N/A speed=4.48x    
+frame=17654 fps=108 q=28.0 size=N/A time=00:12:15.61 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d244.ts' for writing
+frame=17703 fps=108 q=28.0 size=N/A time=00:12:17.69 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d245.ts' for writing
+frame=17753 fps=107 q=28.0 size=N/A time=00:12:19.77 bitrate=N/A speed=4.48x    
+frame=17807 fps=107 q=28.0 size=N/A time=00:12:21.98 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d246.ts' for writing
+frame=17860 fps=107 q=28.0 size=N/A time=00:12:24.19 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d247.ts' for writing
+frame=17914 fps=107 q=28.0 size=N/A time=00:12:26.46 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d248.ts' for writing
+frame=17964 fps=107 q=28.0 size=N/A time=00:12:28.57 bitrate=N/A speed=4.48x    
+frame=18011 fps=107 q=28.0 size=N/A time=00:12:30.62 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d249.ts' for writing
+frame=18064 fps=107 q=28.0 size=N/A time=00:12:32.70 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d250.ts' for writing
+frame=18115 fps=107 q=28.0 size=N/A time=00:12:34.78 bitrate=N/A speed=4.47x    
+frame=18170 fps=107 q=28.0 size=N/A time=00:12:37.12 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d251.ts' for writing
+frame=18228 fps=107 q=28.0 size=N/A time=00:12:39.61 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d252.ts' for writing
+frame=18283 fps=107 q=28.0 size=N/A time=00:12:41.85 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d253.ts' for writing
+frame=18337 fps=107 q=28.0 size=N/A time=00:12:44.06 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d254.ts' for writing
+frame=18389 fps=107 q=28.0 size=N/A time=00:12:46.30 bitrate=N/A speed=4.48x    
+frame=18440 fps=107 q=28.0 size=N/A time=00:12:48.35 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d255.ts' for writing
+frame=18497 fps=107 q=28.0 size=N/A time=00:12:50.72 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d256.ts' for writing
+frame=18557 fps=107 q=28.0 size=N/A time=00:12:53.24 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d257.ts' for writing
+frame=18611 fps=107 q=28.0 size=N/A time=00:12:55.45 bitrate=N/A speed=4.48x    
+frame=18658 fps=107 q=28.0 size=N/A time=00:12:57.44 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d258.ts' for writing
+frame=18708 fps=107 q=28.0 size=N/A time=00:12:59.61 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d259.ts' for writing
+frame=18764 fps=107 q=28.0 size=N/A time=00:13:01.85 bitrate=N/A speed=4.47x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d260.ts' for writing
+frame=18822 fps=107 q=28.0 size=N/A time=00:13:04.25 bitrate=N/A speed=4.47x    
+frame=18881 fps=107 q=28.0 size=N/A time=00:13:06.81 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d261.ts' for writing
+frame=18946 fps=107 q=28.0 size=N/A time=00:13:09.40 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d262.ts' for writing
+frame=19006 fps=108 q=28.0 size=N/A time=00:13:12.00 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d263.ts' for writing
+frame=19061 fps=108 q=28.0 size=N/A time=00:13:14.27 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d264.ts' for writing
+frame=19118 fps=108 q=28.0 size=N/A time=00:13:16.60 bitrate=N/A speed=4.48x    
+frame=19177 fps=108 q=28.0 size=N/A time=00:13:19.10 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d265.ts' for writing
+frame=19235 fps=108 q=28.0 size=N/A time=00:13:21.44 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d266.ts' for writing
+frame=19291 fps=108 q=28.0 size=N/A time=00:13:23.84 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d267.ts' for writing
+frame=19346 fps=108 q=28.0 size=N/A time=00:13:26.11 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d268.ts' for writing
+frame=19398 fps=108 q=28.0 size=N/A time=00:13:28.28 bitrate=N/A speed=4.48x    
+frame=19454 fps=108 q=28.0 size=N/A time=00:13:30.72 bitrate=N/A speed=4.48x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d269.ts' for writing
+frame=19516 fps=108 q=28.0 size=N/A time=00:13:33.18 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d270.ts' for writing
+frame=19578 fps=108 q=28.0 size=N/A time=00:13:35.77 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d271.ts' for writing
+frame=19637 fps=108 q=28.0 size=N/A time=00:13:38.27 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d272.ts' for writing
+frame=19696 fps=108 q=28.0 size=N/A time=00:13:40.67 bitrate=N/A speed=4.49x    
+frame=19751 fps=108 q=28.0 size=N/A time=00:13:43.13 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d273.ts' for writing
+frame=19811 fps=108 q=28.0 size=N/A time=00:13:45.53 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d274.ts' for writing
+frame=19871 fps=108 q=28.0 size=N/A time=00:13:47.93 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d275.ts' for writing
+frame=19927 fps=108 q=28.0 size=N/A time=00:13:50.40 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d276.ts' for writing
+frame=19990 fps=108 q=28.0 size=N/A time=00:13:52.96 bitrate=N/A speed=4.49x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d277.ts' for writing
+frame=20050 fps=108 q=28.0 size=N/A time=00:13:55.45 bitrate=N/A speed= 4.5x    
+frame=20105 fps=108 q=28.0 size=N/A time=00:13:57.82 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d278.ts' for writing
+frame=20161 fps=108 q=28.0 size=N/A time=00:14:00.09 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d279.ts' for writing
+frame=20225 fps=108 q=28.0 size=N/A time=00:14:02.72 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d280.ts' for writing
+frame=20286 fps=108 q=28.0 size=N/A time=00:14:05.28 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d281.ts' for writing
+frame=20340 fps=108 q=28.0 size=N/A time=00:14:07.52 bitrate=N/A speed= 4.5x    
+frame=20396 fps=108 q=28.0 size=N/A time=00:14:09.85 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d282.ts' for writing
+frame=20446 fps=108 q=28.0 size=N/A time=00:14:11.93 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d283.ts' for writing
+frame=20494 fps=108 q=28.0 size=N/A time=00:14:13.98 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d284.ts' for writing
+frame=20552 fps=108 q=28.0 size=N/A time=00:14:16.35 bitrate=N/A speed= 4.5x    
+frame=20603 fps=108 q=28.0 size=N/A time=00:14:18.56 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d285.ts' for writing
+frame=20654 fps=108 q=28.0 size=N/A time=00:14:20.64 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d286.ts' for writing
+frame=20706 fps=108 q=28.0 size=N/A time=00:14:22.78 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d287.ts' for writing
+frame=20767 fps=108 q=28.0 size=N/A time=00:14:25.34 bitrate=N/A speed= 4.5x    
+frame=20830 fps=108 q=28.0 size=N/A time=00:14:28.03 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d288.ts' for writing
+frame=20882 fps=108 q=28.0 size=N/A time=00:14:30.11 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d289.ts' for writing
+frame=20932 fps=108 q=28.0 size=N/A time=00:14:32.22 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d290.ts' for writing
+frame=20986 fps=108 q=28.0 size=N/A time=00:14:34.40 bitrate=N/A speed= 4.5x    
+frame=21036 fps=108 q=28.0 size=N/A time=00:14:36.54 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d291.ts' for writing
+frame=21106 fps=108 q=28.0 size=N/A time=00:14:39.45 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d292.ts' for writing
+frame=21173 fps=108 q=28.0 size=N/A time=00:14:42.27 bitrate=N/A speed= 4.5x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d293.ts' for writing
+frame=21242 fps=108 q=28.0 size=N/A time=00:14:45.12 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d294.ts' for writing
+frame=21299 fps=108 q=28.0 size=N/A time=00:14:47.52 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d295.ts' for writing
+frame=21364 fps=108 q=28.0 size=N/A time=00:14:50.20 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d296.ts' for writing
+frame=21433 fps=108 q=28.0 size=N/A time=00:14:53.08 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d297.ts' for writing
+frame=21502 fps=108 q=28.0 size=N/A time=00:14:55.90 bitrate=N/A speed=4.51x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d298.ts' for writing
+frame=21572 fps=108 q=28.0 size=N/A time=00:14:58.88 bitrate=N/A speed=4.52x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d299.ts' for writing
+frame=21634 fps=108 q=28.0 size=N/A time=00:15:01.47 bitrate=N/A speed=4.52x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d300.ts' for writing
+frame=21702 fps=109 q=28.0 size=N/A time=00:15:04.38 bitrate=N/A speed=4.52x    
+frame=21768 fps=109 q=28.0 size=N/A time=00:15:07.04 bitrate=N/A speed=4.52x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d301.ts' for writing
+frame=21818 fps=109 q=28.0 size=N/A time=00:15:09.15 bitrate=N/A speed=4.52x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d302.ts' for writing
+frame=21872 fps=109 q=28.0 size=N/A time=00:15:11.36 bitrate=N/A speed=4.52x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d303.ts' for writing
+frame=21928 fps=109 q=28.0 size=N/A time=00:15:13.72 bitrate=N/A speed=4.52x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d304.ts' for writing
+frame=21988 fps=109 q=28.0 size=N/A time=00:15:16.19 bitrate=N/A speed=4.52x    
+frame=22048 fps=109 q=25.0 size=N/A time=00:15:18.72 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d305.ts' for writing
+frame=22109 fps=109 q=28.0 size=N/A time=00:15:21.28 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d306.ts' for writing
+frame=22171 fps=109 q=28.0 size=N/A time=00:15:23.90 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d307.ts' for writing
+frame=22241 fps=109 q=28.0 size=N/A time=00:15:26.78 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d308.ts' for writing
+frame=22309 fps=109 q=28.0 size=N/A time=00:15:29.60 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d309.ts' for writing
+frame=22366 fps=109 q=28.0 size=N/A time=00:15:31.93 bitrate=N/A speed=4.53x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d310.ts' for writing
+frame=22423 fps=109 q=28.0 size=N/A time=00:15:34.33 bitrate=N/A speed=4.53x    
+frame=22484 fps=109 q=28.0 size=N/A time=00:15:36.89 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d311.ts' for writing
+frame=22550 fps=109 q=28.0 size=N/A time=00:15:39.61 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d312.ts' for writing
+frame=22612 fps=109 q=28.0 size=N/A time=00:15:42.20 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d313.ts' for writing
+frame=22674 fps=109 q=28.0 size=N/A time=00:15:44.86 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d314.ts' for writing
+frame=22738 fps=109 q=28.0 size=N/A time=00:15:47.42 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d315.ts' for writing
+frame=22799 fps=109 q=28.0 size=N/A time=00:15:50.01 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d316.ts' for writing
+frame=22857 fps=109 q=28.0 size=N/A time=00:15:52.41 bitrate=N/A speed=4.54x    
+frame=22905 fps=109 q=28.0 size=N/A time=00:15:54.46 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d317.ts' for writing
+frame=22960 fps=109 q=28.0 size=N/A time=00:15:56.70 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d318.ts' for writing
+frame=23008 fps=109 q=28.0 size=N/A time=00:15:58.78 bitrate=N/A speed=4.54x    
+frame=23060 fps=109 q=28.0 size=N/A time=00:16:00.86 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d319.ts' for writing
+frame=23108 fps=109 q=28.0 size=N/A time=00:16:02.91 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d320.ts' for writing
+frame=23160 fps=109 q=28.0 size=N/A time=00:16:05.05 bitrate=N/A speed=4.54x    
+frame=23203 fps=109 q=28.0 size=N/A time=00:16:06.84 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d321.ts' for writing
+frame=23248 fps=109 q=28.0 size=N/A time=00:16:08.76 bitrate=N/A speed=4.54x    
+[hls @ 0x56041ac45dc0] Opening '/var/lib/jellyfin/transcodes/9a1981b918fbb69f8e7271541d39c10d322.ts' for writing
