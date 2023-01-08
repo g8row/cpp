@@ -1,5 +1,7 @@
 #include <iostream>
 #include <cstring>
+#pragma warning(disable:4996)
+
 using namespace std;
 
 const int MAX_STR_LEN = 80;
@@ -64,7 +66,7 @@ int main() {
         backpacks[i] = new char[MAX_STR_LEN];
         cin >> backpacks[i];
         if (strlen(backpacks[i]) % 2) {
-            cout << "na wankata i joreto spisuka e tejko preeban" << endl;
+            cout << "Spisuka e greshen" << endl;
             return -1;
         }
     }

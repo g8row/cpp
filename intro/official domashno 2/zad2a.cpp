@@ -1,6 +1,8 @@
 #include <iostream>
-#include <bits/stdc++.h>
+#include <cstring>
 using namespace std;
+#pragma warning(disable:4996)
+
 
 const int rows = 5, columns = 8;
 
@@ -22,7 +24,7 @@ bool isHighest(char ch) {
     return ch == 'z' || ch == 'E';
 }
 bool isValidMove(char ch1, char ch2) {
-    return ch2 == (ch1 + 1) || ch1 == ch2 || (isHighest(ch1) && isHighest(ch2)) || (isLowest(ch1) && isLowest(ch2));
+    return ch2 == (ch1 + 1) || ch2 == (ch1 - 1) || ch1 == ch2 || (isHighest(ch1) && isHighest(ch2)) || (isLowest(ch1) && isLowest(ch2));
 }
 
 void path(int x, int y, int& shortestPath, int currPath, char matrix[rows][columns], bool walked[rows][columns]) {

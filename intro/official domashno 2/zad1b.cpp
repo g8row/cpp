@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
+#pragma warning(disable:4996)
 
 const int MAX_STR_LEN = 80;
 const int LETTERS = 52;
@@ -67,6 +68,20 @@ int* getRepeatingCharsPriority(char* repeatingCharacters, int n) {
     }
     return result;
 }
+int getPrioritySum(char** backpacks, int n) {
+    char* repeatingChars = getRepeatingChars(backpacks, n);
+    int* problemsPriority = getRepeatingCharsPriority(repeatingChars, n);
+
+    int prioritySum = 0;
+
+    for (int i = 0;i < n;i++) {
+        prioritySum += problemsPriority[i];
+    }
+
+    delete[] problemsPriority;
+    delete[] repeatingChars;
+    return prioritySum;
+}
 
 int main() {
     int n;
@@ -78,29 +93,12 @@ int main() {
         backpacks[i] = new char[MAX_STR_LEN];
         cin >> backpacks[i];
         if (strlen(backpacks[i]) % 2) {
-            cout << "na wankata i joreto spisuka e tejko preeban" << endl;
+            cout << "Spisuka e greshen" << endl;
             return -1;
         }
     }
 
-    char* repeatingChars = getRepeatingChars(backpacks, n);
-
-    for (int i = 0;i < n;i++) {
-        cout << repeatingChars[i] << endl;
-    }
-
-    int* problemsPriority = getRepeatingCharsPriority(repeatingChars, n);
-
-    int prioritySum = 0;
-
-    for (int i = 0;i < n;i++) {
-        cout << problemsPriority[i] << endl;
-        prioritySum += problemsPriority[i];
-    }
-
-    cout << prioritySum << endl;
-
-    delete[] problemsPriority;
+    cout << getPrioritySum(backpacks, n);
 
     for (int i = 0;i < n;i++) {
         delete[] backpacks[i];

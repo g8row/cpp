@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
+//#pragma warning(disable:4996)
+
 
 const int MAX_STR_LEN = 80;
 const int LETTERS = 52;
@@ -16,6 +18,9 @@ bool isLower(char ch) {
 
 bool* createHistogram(char* backpack) {
     bool* hist = new bool[LETTERS];
+    for (int i = 0;i < LETTERS;i++) {
+        hist[i] = 0;
+    }
     for (int i = 0;i < LETTERS;i++) {
         if (isLower(*backpack)) {
             hist[*backpack - 'a'] = 1;
@@ -47,6 +52,9 @@ char getIdentificator(char**& backpacks) {
         }
     }
     return '\0';
+    delete[] hist1;
+    delete[] hist2;
+    delete[] hist3;
 }
 
 char* getIdentificators(char** backpacks, int n) {
@@ -69,7 +77,7 @@ int main() {
         backpacks[i] = new char[MAX_STR_LEN];
         cin >> backpacks[i];
         if (strlen(backpacks[i]) % 2) {
-            cout << "na wankata i joreto spisuka e tejko preeban" << endl;
+            cout << "Spisuka e greshen" << endl;
             return -1;
         }
     }
@@ -80,8 +88,11 @@ int main() {
         cout << identificators[i] << endl;
     }
 
+    delete[]identificators;
+
     for (int i = 0;i < n;i++) {
         delete[] backpacks[i];
     }
+
     delete[] backpacks;
 }
