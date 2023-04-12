@@ -1,0 +1,7 @@
+10 bsdadaruha sunny 3
+5 jijia neutral 4
+5 milal sunny 4
+5 ledal sunny 4
+5 pedal sunny 4
+5 qedal sunny 4
+7 zazamia shady 0
