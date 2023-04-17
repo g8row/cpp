@@ -12,7 +12,7 @@ int Greenhouse::getRow(Plant::Environment env) {
     else return 2;
 }
 
-Greenhouse::Greenhouse(const Greenhouse& other):book(other.book) {
+Greenhouse::Greenhouse(const Greenhouse& other): book(other.book) {
     for (int i = 0;i < 3;i++) {
         rows[i] = other.rows[i];
     }
@@ -48,7 +48,7 @@ void Greenhouse::addPlant(const char* name) {
         toAdd = currRow;
     }
     else {
-        int opt1, opt2;
+        int opt1 = -1, opt2 = -1;
         bool changed = 0;
         for (int i = 0;i < 3;i++) {
             if (i != currRow && rows[i].hasFreeSpots()) {
@@ -63,6 +63,11 @@ void Greenhouse::addPlant(const char* name) {
         float rand = (std::rand()) * 1.0 / RAND_MAX;
         toAdd = (rand > 0.5) ? opt1 : opt2;
     }
+
+    if (toAdd == -1) {
+        throw std::invalid_argument("no free space on rows");
+    }
+
     int days = plant.getFrequency() - toAdd + currRow;
     if (days <= 0) {
         days = 1;
@@ -72,10 +77,17 @@ void Greenhouse::addPlant(const char* name) {
 }
 
 Plant Greenhouse::remove(int row, int index) {
-    if (row > 3 || row < 0) {
+    if (row > 2 || row < 0) {
         throw std::invalid_argument("invalid row");
     }
     return rows[row].remove(index);
+}
+
+std::ostream& operator<<(std::ostream& os, const Greenhouse& house) {
+    os << house.rows[0] << "----------------\n";
+    os << house.rows[1] << "----------------\n";
+    os << house.rows[2] << std::endl;
+    return os;
 }
 
 

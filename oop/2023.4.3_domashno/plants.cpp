@@ -1,13 +1,20 @@
 #include "greenhouse.hpp"
 int main() {
-    Greenhouse house(1, 1, 1, "book.txt");
-    house.addPlant("pedal");
-    house.addPlant("ledal");
-    house.addPlant("milal");
-    Plant bruh(house.remove(0, 0));
-    std::cout << bruh << std::endl;
-    bruh = Plant(house.remove(1, 0));
-    std::cout << bruh << std::endl;
-    bruh = Plant(house.remove(2, 0));
-    std::cout << bruh << std::endl;
+    Plantsbook book("book.txt");
+    book.addPlant("roza", Plant::Environment::shady, 10);
+    Plant testplant("lale");
+    testplant.setEnvironment("sunny");
+    testplant.setFrequency(6);
+    book.addPlant(testplant);
+    book.addPlant("kokiche", Plant::Environment::sunny, 8);
+    book.addPlant("kaktus", Plant::Environment::neutral, 3);
+
+    Greenhouse house(1, 2, 2, book);
+    house.addPlant("roza");
+    house.addPlant("kaktus");
+    house.addPlant("lale");
+    house.addPlant("kokiche");
+    house.addPlant("kokiche");
+
+    std::cout << house << std::endl;
 }

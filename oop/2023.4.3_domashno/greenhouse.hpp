@@ -13,4 +13,5 @@ public:
     Greenhouse& operator=(const Greenhouse&);
     void addPlant(const char* name);
     Plant remove(int row, int index);
+    friend std::ostream& operator<<(std::ostream& os, const Greenhouse& house);
 };

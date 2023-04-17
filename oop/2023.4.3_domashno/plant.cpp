@@ -2,11 +2,14 @@
 #include "cstring"
 
 Plant& Plant::operator=(const Plant& other) {
-    strcpy(this->name, other.name);
-    this->env = other.env;
-    this->freq = other.freq;
+    if (this != &other) {
+        strcpy(this->name, other.name);
+        this->env = other.env;
+        this->freq = other.freq;
+    }
     return *this;
 }
+
 Plant& Plant::operator=(Plant&& other) {
     if (this != &other) {
         this->name = other.name;
@@ -40,17 +43,19 @@ std::istream& operator>>(std::istream& is, Plant& plant) {
 }
 
 Plant::Plant(const char* name) {
-    this->name = new char[strlen(name)];
+    this->name = new char[strlen(name) + 1];
     strcpy(this->name, name);
     env = Environment::unspecified;
     freq = -1;
 }
+
 Plant::Plant(const Plant& other) {
-    name = new char[strlen(other.name)];
+    name = new char[strlen(other.name) + 1];
     strcpy(name, other.name);
     env = other.env;
     freq = other.freq;
 }
+
 Plant::Plant(Plant&& other) {
     name = other.name;
     env = other.env;
@@ -59,18 +64,17 @@ Plant::Plant(Plant&& other) {
     other.name = nullptr;
     other.env = Environment::neutral;
     other.freq = 0;
-
 }
 
 const char* Plant::getName() const {
     return this->name;
 }
+
 Plant::Environment Plant::getEnvironment() const {
     return this->env;
 }
 
-const char* Plant::getEnvironmentString() const
-{
+const char* Plant::getEnvironmentString() const {
     if (this->env == Plant::Environment::sunny) {
         return "sunny";
     }
@@ -84,12 +88,12 @@ const char* Plant::getEnvironmentString() const
         return "unspecified";
     }
 }
+
 unsigned Plant::getFrequency() const {
     return this->freq;
 }
 
-Plant::Environment Plant::getEnvironmentFromString(const char* str) const
-{
+Plant::Environment Plant::getEnvironmentFromString(const char* str) const {
     if (!strcmp(str, "sunny")) {
         return Plant::Environment::sunny;
     }
@@ -109,6 +113,7 @@ void Plant::setName(const char* name) {
     this->name = new char[strlen(name)];
     strcpy(this->name, name);
 }
+
 void Plant::setEnvironment(Plant::Environment env) {
     this->env = env;
 }
@@ -118,6 +123,9 @@ void Plant::setEnvironment(const char* env) {
 }
 
 void Plant::setFrequency(unsigned freq) {
+    if (freq <= 0) {
+        freq = 1;
+    }
     this->freq = freq;
 }
 

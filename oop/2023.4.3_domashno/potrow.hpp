@@ -17,5 +17,6 @@ public:
     void add(const Plant& plant);
     Plant remove(int index);
     void free();
+    friend std::ostream& operator<<(std::ostream& os, const PotRow& row);
     ~PotRow();
 };

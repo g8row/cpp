@@ -10,21 +10,20 @@ Plantsbook::Plantsbook(const char* filename)
     if (!ofs.is_open()) {
         throw std::invalid_argument("file cannot be opened");
     }
-    this->rows = countRows();
+    ofs.close();
 }
 
 Plantsbook::Plantsbook(const Plantsbook& other) {
     strcpy(this->filename, other.filename);
-    rows = other.rows;
 }
 
 void Plantsbook::addPlant(const char* name, Plant::Environment env, unsigned freq)
 {
-    rows = countRows() + 1;
+    int rows = countRows() + 1;
     if (env == Plant::Environment::unspecified) {
         env = Plant::Environment::neutral;
     }
-    if (freq == -1) {
+    if (freq < 1) {
         freq = 3;
     }
     if (rows == 1) {
@@ -58,7 +57,7 @@ void Plantsbook::addPlant(const char* name, Plant::Environment env, unsigned fre
         if (!isAdded) {
             comp = strcmp(name, buffer);
             if (comp == 0) {
-                throw std::invalid_argument("invalid name");
+                throw std::invalid_argument("plant already in book");
             }
         }
 
@@ -112,9 +111,12 @@ Plant Plantsbook::getPlant(const char* name) {
     if (!ifs.is_open()) {
         throw std::invalid_argument("file cannot be opened");
     }
+
     bool isFound = 0;
     Plant* temp;
-    for (int i = 1;i < rows && !isFound;i++) {
+    int rows = countRows();
+
+    for (int i = 0;i < rows && !isFound;i++) {
         int size;
         ifs >> size;
         ifs.ignore();

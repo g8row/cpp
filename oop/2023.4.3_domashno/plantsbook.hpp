@@ -5,7 +5,6 @@ class Plantsbook
 {
 private:
     char filename[128];
-    unsigned rows;
     unsigned countRows();
 public:
     Plant getPlant(const char*);
