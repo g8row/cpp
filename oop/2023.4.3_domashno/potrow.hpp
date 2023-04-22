@@ -5,6 +5,8 @@ class PotRow {
     Plant** plants;
     int count;
     int capacity;
+    void free();
+    int firstFreeSpot();
 public:
     PotRow();
     PotRow(int num);
@@ -12,11 +14,10 @@ public:
     PotRow(PotRow&&);
     PotRow& operator=(const PotRow&);
     PotRow& operator=(PotRow&&);
-    int firstFreeSpot();
-    bool hasFreeSpots();
     void add(const Plant& plant);
+    bool hasFreeSpots();
     Plant remove(int index);
-    void free();
     friend std::ostream& operator<<(std::ostream& os, const PotRow& row);
+    int getCount() const;
     ~PotRow();
 };

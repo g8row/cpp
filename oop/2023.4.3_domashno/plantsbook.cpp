@@ -2,6 +2,7 @@
 #include <stdexcept>
 #include <cstring>
 #include <fstream>
+#pragma warning(disable: 4996)
 
 Plantsbook::Plantsbook(const char* filename)
 {
@@ -113,7 +114,7 @@ Plant Plantsbook::getPlant(const char* name) {
     }
 
     bool isFound = 0;
-    Plant* temp;
+    Plant* temp = nullptr;
     int rows = countRows();
 
     for (int i = 0;i < rows && !isFound;i++) {
@@ -145,7 +146,9 @@ Plant Plantsbook::getPlant(const char* name) {
     if (!isFound) {
         throw std::invalid_argument("plant not in book");
     }
-    return *temp;
+    else {
+        return *temp;
+    }
 }
 
 

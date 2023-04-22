@@ -1,8 +1,11 @@
 #include "potrow.hpp"
+#pragma warning(disable: 4996)
+
 
 PotRow::PotRow() {
     plants = nullptr;
     count = 0;
+    capacity = 0;
 }
 
 PotRow::PotRow(int num) {
@@ -89,15 +92,23 @@ Plant PotRow::remove(int index) {
     }
     Plant temp(*plants[index]);
     plants[index] = nullptr;
+    count--;
     return temp;
 }
 
 std::ostream& operator<<(std::ostream& os, const PotRow& row) {
-    for (int i = 0;i < row.count;i++) {
-        os << *(row.plants[i]) << std::endl;
+    for (int i = 0;i < row.capacity;i++) {
+        if (row.plants[i] != nullptr) {
+            os << *(row.plants[i]) << std::endl;
+        }
     }
     return os;
 }
+
+int PotRow::getCount() const {
+    return count;
+}
+
 
 PotRow::~PotRow() {
     free();

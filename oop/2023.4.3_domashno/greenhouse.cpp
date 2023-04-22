@@ -1,6 +1,7 @@
 #include "greenhouse.hpp"
-#include <cstdlib>
-#include <ctime>
+#pragma warning(disable: 4996)
+
+
 
 int Greenhouse::getRow(Plant::Environment env) {
     if (env == Plant::Environment::sunny) {
@@ -59,9 +60,18 @@ void Greenhouse::addPlant(const char* name) {
                 changed = 1;
             }
         }
-        std::srand(std::time(0));
+        //std::srand((unsigned)std::time(0));
         float rand = (std::rand()) * 1.0 / RAND_MAX;
-        toAdd = (rand > 0.5) ? opt1 : opt2;
+
+        if (abs(opt1 - currRow) < abs(opt2 - currRow)) {
+            toAdd = opt1;
+        }
+        else if (abs(opt1 - currRow) > abs(opt2 - currRow)) {
+            toAdd = opt2;
+        }
+        else {
+            toAdd = (rand > 0.5) ? opt1 : opt2;
+        }
     }
 
     if (toAdd == -1) {
@@ -90,4 +100,8 @@ std::ostream& operator<<(std::ostream& os, const Greenhouse& house) {
     return os;
 }
 
-
+void Greenhouse::printStatistic() const {
+    std::cout << rows[0].getCount() << "\n----------------\n";
+    std::cout << rows[1].getCount() << "\n----------------\n";
+    std::cout << rows[2].getCount() << std::endl;
+}

@@ -14,4 +14,5 @@ public:
     void addPlant(const char* name);
     Plant remove(int row, int index);
     friend std::ostream& operator<<(std::ostream& os, const Greenhouse& house);
+    void printStatistic() const;
 };

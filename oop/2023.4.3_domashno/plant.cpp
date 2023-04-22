@@ -1,5 +1,7 @@
 #include "plant.hpp"
 #include "cstring"
+#pragma warning(disable: 4996)
+
 
 Plant& Plant::operator=(const Plant& other) {
     if (this != &other) {
